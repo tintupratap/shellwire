@@ -13,7 +13,7 @@ A fast, modern Telegram bot that gives you a full interactive terminal from your
 - File upload and download
 - Per-chat context: shell, cwd, env, terminal size
 - Multi-user access control with one-time tokens
-  (Only tested onn linux)
+(Only tested on linux)
 
 ## Setup
 
