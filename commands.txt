@@ -1,0 +1,45 @@
+run - Execute a shell command
+r - Run command or send input (smart shortcut)
+x - Execute a shell command (alias for run)
+enter - Send text + Enter to running command
+e - Send text + Enter (alias for enter)
+type - Send text without Enter
+t - Send text without Enter (alias for type)
+end - Send EOF / Ctrl+D to running command
+cancel - Send Ctrl+C (SIGINT) to process group
+kill - Send SIGTERM to root process
+q - Send Ctrl+C and quit (alias for cancel)
+ctrl - Send Ctrl+letter to process
+c - Send Ctrl+letter (alias for ctrl)
+meta - Send Alt+key or toggle Alt mode
+m - Send Alt+key (alias for meta)
+keypad - Toggle interactive arrow key pad
+k - Toggle keypad (alias for keypad)
+redraw - Force terminal screen repaint
+rd - Force repaint (alias for redraw)
+dt - Toggle Danger Terminal mode (every message = input)
+dangerterminal - Toggle Danger Terminal mode
+status - Show current bot and terminal status
+s - Show status (alias for status)
+shell - View or change the shell
+cd - Change working directory
+env - View or set environment variables
+resize - Resize terminal (mobile / desktop / cols rows)
+rs - Resize terminal (alias for resize)
+silent - Toggle silent output mode
+setsilent - Toggle silent output mode
+interactive - Toggle interactive shell flag
+setinteractive - Toggle interactive shell flag
+linkpreviews - Toggle link previews in output
+setlinkpreviews - Toggle link previews
+file - View or edit a text file
+f - View or edit a file (alias for file)
+upload - Send a file from server to Telegram
+ul - Upload file (alias for upload)
+grant - Grant a chat access to this bot (owner only)
+revoke - Revoke a chat's access (owner only)
+token - Generate a one-time invite link (owner only)
+help - Show all commands and usage
+h - Show help (alias for help)
+about - About this bot
+start - Start the bot
