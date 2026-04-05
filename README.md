@@ -4,7 +4,7 @@ A fast, modern Telegram bot that gives you a full interactive terminal from your
 
 > Inspired by the idea of a shell-over-Telegram bot, shellwire is a ground-up Go rewrite — faster, leaner, and actively maintained.
 
-## Features
+## Features (Only tested on linux)
 
 - Run any shell command via `/run`
 - Full interactive terminal support — htop, vim, nano, and more
@@ -13,7 +13,6 @@ A fast, modern Telegram bot that gives you a full interactive terminal from your
 - File upload and download
 - Per-chat context: shell, cwd, env, terminal size
 - Multi-user access control with one-time tokens
-(Only tested on linux)
 
 ## Setup
 
